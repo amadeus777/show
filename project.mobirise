@@ -80,7 +80,7 @@
               "font-size": "60px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "color": "#e4ef0d"
+              "color": "#e7d561"
             },
             ".mbr-section-lead": {
               "font-size": "32px"
@@ -108,7 +108,7 @@
             "bgVideoRadio": true,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#492c25",
+            "overlayColor": "#2b0680",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
