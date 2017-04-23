@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 35,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/maxresdefault-3-128x72.png",
     "noImageResize": "",
@@ -61,7 +61,9 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-family": "'PT Serif', serif"
             },
             ".link": {
               "font-size": "1.5rem"
@@ -92,11 +94,11 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-s",
+          "_anchor": "ext_menu-x",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1.5",
@@ -132,37 +134,7 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-t",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showText": false,
-            "showTitle": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "ГАЛА-"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-u",
+          "_anchor": "msg-box1-y",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -227,7 +199,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
