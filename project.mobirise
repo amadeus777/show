@@ -77,7 +77,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px",
+              "font-size": "48px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "color": "#e7d561"
@@ -114,8 +114,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "УНИКАЛЬНОЕ ТРИБЬЮТ-ШОУ с симфоническим оркестром Республики Казахстан:&nbsp;<br>",
-          "text": "<b>песни легендарной группы КИНО </b><br><b>в твоем городе!</b>",
+          "title": "УНИКАЛЬНОЕ ТРИБЬЮТ-ШОУ с симфоническим оркестром:&nbsp;<br>",
+          "text": "<b>Песни легендарной группы КИНО </b><br><b>в твоем городе!</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -126,7 +126,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px",
+              "font-size": "36px",
               "text-align": "left",
               "color": "#f8f8f9"
             },
@@ -156,7 +156,7 @@
             "showText": false,
             "showButtons": false
           },
-          "title": "К 55-летию со дня рождения ВИКТОРА ЦОЯ <br>10 июня 2017 г. <br>в 20.00<br>Дворец студентов&nbsp;",
+          "title": "К 55-летию со дня рождения ВИКТОРА ЦОЯ <br><br>10 июня 2017 г. <br><br>в 20.00<br><br>Дворец студентов&nbsp;",
           "text": "&nbsp;рок-группа «Солнечные дни» (Россия) и Государственный академический симфонический оркестр (Казахстан) исполнят для вас любимые песни, на которых выросло не одно поколение!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -168,7 +168,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "48px",
+              "font-size": "36px",
               "color": "#fd211e"
             },
             ".mbr-section-lead": {
@@ -195,7 +195,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Рок-группа «Солнечные дни» (Россия) и Государственный академический симфонический оркестр <br>Республики Казахстан",
+          "title": "Рок-группа «Солнечные дни» (Россия) и Государственный академический симфонический оркестр Республики Казахстан",
           "text": "исполнят песни на которых выросло<br>не одно поколение!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -207,7 +207,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "60px"
+              "font-size": "36px"
             },
             ".mbr-section-lead": {
               "font-size": "25px"
