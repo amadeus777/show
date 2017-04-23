@@ -215,7 +215,7 @@
           },
           "_anchor": "header4-6",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/a3pavzunkjg-2000x1451.jpg",
