@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/maxresdefault-3-128x72.png",
     "noImageResize": "",
@@ -283,7 +283,8 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#f5f764"
             }
           },
           "_tags": [
@@ -330,7 +331,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#b8312f"
+            "bgColor": "#140436"
           },
           "text": "<p><b>Дата и место проведения:&nbsp;</b></p><p><br></p><p>Алматы, 10 июня, в 20:00, Дворец студентов, касса: 274-20-62, 8 (701) 748 40 95</p>"
         },
@@ -373,11 +374,14 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "map1",
-          "_anchor": "map1-f",
+          "_name": "map2",
+          "_anchor": "map2-i",
           "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#130438",
             "googleMap": {
-              "address": "г. Алматы, пр. Аль-Фараби, 71, Дворец студентов\n",
+              "address": "г. Алматы, пр. Аль-Фараби, 71, Дворец студентов",
               "placeId": "ChIJ9YpUvxhvgzgRporv6rU-6wQ",
               "state": "ok",
               "stateDetails": ""
@@ -409,7 +413,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#121111",
+            "bgColor": "#09021b",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
