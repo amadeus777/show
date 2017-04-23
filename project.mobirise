@@ -87,7 +87,7 @@
             },
             ".mbr-section-lead B": {
               "color": "#fd211e",
-              "font-size": "60px",
+              "font-size": "48px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
