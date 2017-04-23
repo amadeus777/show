@@ -50,7 +50,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/-2000x866.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-2000x867.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -114,7 +114,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "УНИКАЛЬНОЕ ТРИБЬЮТ-ШОУ с симфоническим оркестром:&nbsp;<br>",
+          "title": "УНИКАЛЬНОЕ ТРИБЬЮТ-ШОУ с симфоническим оркестром Республики Казахстан:&nbsp;<br>",
           "text": "<b>песни легендарной группы КИНО </b><br><b>в твоем городе!</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -156,7 +156,7 @@
             "showText": false,
             "showButtons": false
           },
-          "title": "К 55-летию со дня рождения ВИКТОРА ЦОЯ <br>10 июня 2017 г. в 20.00<br>во Дворце студента&nbsp;",
+          "title": "К 55-летию со дня рождения ВИКТОРА ЦОЯ <br>10 июня 2017 г. <br>в 20.00<br>Дворец студентов&nbsp;",
           "text": "&nbsp;рок-группа «Солнечные дни» (Россия) и Государственный академический симфонический оркестр (Казахстан) исполнят для вас любимые песни, на которых выросло не одно поколение!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -195,7 +195,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Рок-группа «Солнечные дни» (Россия) и Государственный академический симфонический оркестр (Казахстан)",
+          "title": "Рок-группа «Солнечные дни» (Россия) и Государственный академический симфонический оркестр <br>Республики Казахстан",
           "text": "исполнят песни на которых выросло<br>не одно поколение!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
