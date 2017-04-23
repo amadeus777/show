@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
@@ -5,6 +6,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -418,67 +420,12 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #ffffff;
 }
-#ext_menu-14 .hide-buttons .nav-btn {
-  display: none !important;
+#msg-box2-17 .mbr-section-title {
+  color: #fff;
+  font-family: 'PT Serif', serif;
 }
-#ext_menu-14 .navbar-caption {
-  color: #ffffff;
-  font-size: 30px;
-}
-#ext_menu-14 .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-14 .close-icon::before,
-#ext_menu-14 .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-14 .link,
-#ext_menu-14 .dropdown-item {
-  color: #ffffff;
-}
-#ext_menu-14 .link {
-  font-size: 1.5rem;
-}
-#ext_menu-14 .dropdown-item,
-#ext_menu-14 .nav-dropdown-sm .link {
-  font-size: 1.624rem;
-}
-#ext_menu-14 .link:hover,
-#ext_menu-14 .dropdown-item:hover,
-#ext_menu-14 .link:focus,
-#ext_menu-14 .dropdown-item:focus {
-  color: #ffffff;
-}
-#ext_menu-14 .link[aria-expanded="true"],
-#ext_menu-14 .dropdown-menu {
-  background: #0e0e0e;
-}
-#ext_menu-14 .nav-dropdown-sm .link:focus,
-#ext_menu-14 .nav-dropdown-sm .link:hover,
-#ext_menu-14 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-14 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#ext_menu-14 .navbar,
-#ext_menu-14 .nav-dropdown-sm,
-#ext_menu-14 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-14 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#ext_menu-14 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-14 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-14 .bg-color.transparent.opened .link:hover,
-#ext_menu-14 .bg-color.transparent.opened .link:focus {
-  color: #ffffff;
-}
-#ext_menu-14 .link[aria-expanded="true"],
-#ext_menu-14 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff !important;
+#msg-box2-17 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #content5-p .mbr-section-title,
 #content5-p p {
