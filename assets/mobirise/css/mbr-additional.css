@@ -500,7 +500,7 @@ h6,
   font-size: 84px;
 }
 #header4-3 .mbr-section-title {
-  font-size: 48px;
+  font-size: 30px;
   font-family: 'Lora', serif;
   color: #000000;
 }
@@ -514,17 +514,17 @@ h6,
 }
 #header4-3 .mbr-section-lead SPAN {
   font-family: 'Droid Serif', serif;
-  font-size: 48px;
+  font-size: 46px;
 }
 #header4-a .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
   color: #e10300;
 }
 #header4-a .mbr-section-lead {
-  font-size: 36px;
+  font-size: 30px;
 }
 #header4-6 .mbr-section-title {
-  font-size: 36px;
+  font-size: 32px;
   color: #e10300;
 }
 #header4-6 .mbr-section-lead {
@@ -536,8 +536,11 @@ h6,
   color: #ffffff;
 }
 #header4-7 .mbr-section-title {
-  font-size: 36px;
+  font-size: 30px;
   color: #e10300;
+}
+#header4-7 .mbr-section-lead SPAN {
+  font-size: 25px;
 }
 #msg-box8-b .mbr-section-title,
 #msg-box8-b p {
@@ -545,7 +548,7 @@ h6,
 }
 #msg-box8-b .mbr-section-title {
   font-size: 48px;
-  color: #000000;
+  color: #f4221f;
 }
 #content1-e P {
   font-size: 23px;

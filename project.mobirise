@@ -215,7 +215,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "48px",
+              "font-size": "30px",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "color": "#000000"
@@ -232,7 +232,7 @@
             ".mbr-section-lead SPAN": {
               "font-family": "'Droid Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
-              "font-size": "48px"
+              "font-size": "46px"
             }
           },
           "_anchor": "header4-3",
@@ -269,11 +269,11 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "32px",
+              "font-size": "30px",
               "color": "#e10300"
             },
             ".mbr-section-lead": {
-              "font-size": "36px"
+              "font-size": "30px"
             }
           },
           "_anchor": "header4-a",
@@ -296,7 +296,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Рок-группа «Солнечные дни» (Россия) и Государственный академический симфонический оркестр Республики Казахстан<br><br>",
+          "title": "Рок-группа Солнечные дни (Россия) и Государственный академический симфонический оркестр Республики Казахстан<br><br>",
           "text": "исполнят песни на которых выросло<br>не одно поколение!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -308,7 +308,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "36px",
+              "font-size": "32px",
               "color": "#e10300"
             },
             ".mbr-section-lead": {
@@ -352,8 +352,11 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "font-size": "36px",
+              "font-size": "30px",
               "color": "#e10300"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "25px"
             }
           },
           "_anchor": "header4-7",
@@ -387,7 +390,7 @@
             },
             ".mbr-section-title": {
               "font-size": "48px",
-              "color": "#000000"
+              "color": "#f4221f"
             }
           },
           "_tags": [
